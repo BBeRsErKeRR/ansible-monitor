@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e">
+    <diagram id="5OgRvq9CNMM5T9L5uwNC" name="Page-1">
+        <mxGraphModel dx="1010" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;h1&gt;System design&lt;/h1&gt;&lt;p&gt;Use cases:&lt;/p&gt;&lt;p&gt;1. Check inventory is worked&lt;/p&gt;&lt;p&gt;2. Check environment&lt;/p&gt;&lt;p&gt;3. Check variables&lt;/p&gt;&lt;p&gt;4. Check templates complexity&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Check complexity:&lt;/p&gt;&lt;p&gt;- eqach host variable check max templates form it (maybe collect nested template times)&lt;/p&gt;&lt;p&gt;- collect template time (easy way)&lt;/p&gt;&lt;p&gt;- dump timeres to another map structure and represent it from dump&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="30" width="580" height="570" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
